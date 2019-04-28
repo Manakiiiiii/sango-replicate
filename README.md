@@ -1,2 +1,2 @@
 # sango-replicate
-WordPressテーマ SANGOの模写
+WordPressテーマ SANGOの模写に挑戦しました
